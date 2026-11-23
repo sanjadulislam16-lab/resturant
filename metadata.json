@@ -1,0 +1,6 @@
+{
+  "name": "Saffron & Ember — Restaurant OS & Online Ordering",
+  "description": "Complete restaurant management platform with QR table ordering, live 9-stage order tracking, Kitchen Display System (KDS), interactive floor map, loyalty rewards, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
